@@ -1,3 +1,8 @@
+package com.github.dirtpowered.betatorelease.data.utils;
+
+import com.github.steveice10.mc.protocol.data.game.entity.type.MobType;
+
+import java.util.Objects;
 
 public class OldMobType {
 
